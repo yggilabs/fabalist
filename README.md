@@ -145,7 +145,7 @@ Beginning at 3rd level, you learn to control the rhythm of your stories to impos
 
 Gain two insight points, you regain all of your expended uses of insight when you finish a long rest. Insight may be used to empower you story beats. When you gain certain Fabulist levels, you gain additional insight points, as shown in the insight column of the Fabulist table. 
 
-Gain two of the following story beats:
+Whenever you finish a long rest, choose two of the following story beats:
 
 * **Heartbreak** As a bonus action, choose any number of creatures marked by your pattering speech. Chosen creatures take your resonance die as psychic damage and their mark is removed. You may spend one insight point to forgo rolling and treat all resonance dice as if they rolled the maximum result.
 
@@ -169,7 +169,7 @@ Beginning when you reach 6th level, you regain all of your expended insight when
 
 At 7th level, you gain additional story beats.
 
-Choose two of the following story beats:
+Whenever you finish a long rest, choose two of the following story beats:
 
 * **Shared** As a reaction, when a creature marked by your pattering speech takes damage, you may spend one insight point to half the damage and the mark is removed. You take an equal amount of damage. This damage may not be reduced in any way.
 
