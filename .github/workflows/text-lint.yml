@@ -31,9 +31,6 @@ jobs:
       # Install and run text linter
       - name: text lint
         run: |
-          npm install textlint
-          npm install textlint-rule-no-todo
-          npm install textlint-rule-alex
-          npm install textlint-rule-stop-words  
-          ./node_modules/textlint/textlint README.md
+          npm install 
+          npm test
           
