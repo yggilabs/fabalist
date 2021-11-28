@@ -35,5 +35,5 @@ jobs:
           npm install textlint-rule-no-todo
           npm install textlint-rule-alex
           npm install textlint-rule-stop-words  
-          run ./node_modules/textlint README.md
+          ./node_modules/textlint/textlint README.md
           
