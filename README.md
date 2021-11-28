@@ -122,7 +122,7 @@ Once on your turn, you may move your avatar up to 30 feet to a space you can see
 
 Whenever you spend insight, your avatar is empowered until the end of the turn.
 
-While empowered, when a mark from your pattering speech would be removed from a creature in range of your avatar's influence, instead extend the duration until the end of your next turn.
+While empowered, when a mark from your pattering speech would expire or be removed from a creature in range of your avatar's influence, instead extend the duration until the end of your next turn.
 
 The avatar remains until you lose consciousness, summon another avatar or move more than 60 feet away from each other for more than one minute.
 
