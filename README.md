@@ -118,7 +118,7 @@ Beginning at 2nd level, you bring your stories to life by manifesting a characte
 
 When you spend ten minutes telling a story, an avatar appears within 30 feet of you. Your avatar has no statistics and cannot interact with any objects. Any creature with a Charisma Score of 7 or higher, can immediately tell this creature is insubstantial. Any interaction with your avatar also reveals its nature. Your avatar can take the form of a humanoid or beast of size medium or small.
 
-Once on your turn, you may move your avatar up to 30 feet to a space you can see. The avatar appears to travel in a way appropriate to its form if you choose.
+Once on your turn, you may move your avatar up to 30 feet to a space you can see or teleport your avatar to a space within 5 feet of you. The avatar appears to travel in a way appropriate to its form if you choose.
 
 Whenever you spend insight, your avatar is empowered until the end of the turn.
 
