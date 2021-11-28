@@ -1,0 +1,7 @@
+rules:
+  alex:
+    severity: warning
+  stop-words:
+    severity: warning
+  write-good:
+    severity: warning
