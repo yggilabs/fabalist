@@ -1,5 +1,7 @@
 rules:
-  alex: true
-  ginger: true
-  stop-words: true
-  write-good: true
+  alex:
+    severity: warning
+  stop-words:
+    severity: warning
+  write-good:
+    severity: warning
