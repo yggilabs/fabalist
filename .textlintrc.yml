@@ -1,5 +1,5 @@
 rules:
-  alex
-  ginger
-  stop-words
-  write-good
+  alex: true
+  ginger: true
+  stop-words: true
+  write-good: true
