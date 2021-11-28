@@ -1,0 +1,14 @@
+{
+  "name": "fabalist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "README.md",
+  "dependencies": {
+    "textlint": "12.0.2",
+    "textlint-rule-alex": "3.0.0",
+    "textlint-rule-ginger": "2.2.1",
+    "textlint-rule-stop-words": "2.0.9",
+    "textlint-rule-write-good": "2.0.0"
+  },
+  "keywords": []
+}
